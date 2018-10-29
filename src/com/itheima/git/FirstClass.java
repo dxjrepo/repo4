@@ -7,4 +7,7 @@ public class FirstClass {
         System.out.println("hdaj");
         System.out.println("hdaj");
     }
+    public void test(){
+        System.out.println("jdsa");
+    }
 }
